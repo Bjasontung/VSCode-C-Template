@@ -9,7 +9,7 @@
         "-g",
         "${file}",
         "-o",
-        "C:\\Users\\Administrator\\Desktop\\C-DataStructure\\bin\\${fileBasenameNoExtension}.exe"
+        "C:\\Users\\Administrator\\Desktop\\C-DataStructure\\bin\\${fileBasenameNoExtension}.exe" //更改此处,将$前的bin路径设置为您的bin路径
       ],
       "options": {
         "cwd": "${fileDirname}"

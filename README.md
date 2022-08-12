@@ -1,13 +1,14 @@
-### PC/MAC 用于本编辑器的设置开放使用
+### PC/MAC 请在使用前手动创建bin文件夹及其路径
 
-### PC/MAC 用於本編輯器的設置開放使用
+### PC/MAC 請在使用前手動創建bin文件夾及其路徑
 
-### PC/MAC is open for use with this editor setup
+### PC/MAC Please manually create bin folder and its path before using it
 
-### ПК/MAC используется для открытия настроек этого редактора
+### PC/MAC Перед использованием вручную создайте папку bin и путь к ней.
 
-### PC/MAC は、このエディタの設定を開くために使用されます
+### PC/MAC 使用する前に bin フォルダーとそのパスを手動で作成してください
 
-### PC/MAC 는 이 편집기의 설정을 여는 데 사용됩니다.
+### PC/MAC 사용하기 전에 bin 폴더와 경로를 수동으로 생성하십시오.
 
-### PC/MAC est utilisé pour ouvrir les paramètres de cet éditeur
+### PC/MAC Veuillez créer manuellement le dossier bin et son chemin avant utilisation
+

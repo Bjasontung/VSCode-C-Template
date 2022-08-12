@@ -7,3 +7,5 @@
 ## PC/MAC は、このエディタの設定を開くために使用されます
 
 ## PC/MAC 는 이 편집기의 설정을 여는 데 사용됩니다.
+
+## PC/MAC est utilisé pour ouvrir les paramètres de cet éditeur

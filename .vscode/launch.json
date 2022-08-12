@@ -9,7 +9,7 @@
           "type": "cppdbg",
           "request": "launch",
           "program": "C:\\WINDOWS\\System32\\cmd.exe", // 调用的exe名，要与tasks生成的exe名一致
-          "args": ["/C","C:\\Users\\Administrator\\Desktop\\C-DataStructure\\bin\\${fileBasenameNoExtension}.exe","&","pause"],
+          "args": ["/C","C:\\Users\\Administrator\\Desktop\\C-DataStructure\\bin\\${fileBasenameNoExtension}.exe","&","pause"],   //更改此处,将第二个""内,$前的bin路径设置为您的bin路径
           "stopAtEntry": false,
           "cwd": "${workspaceFolder}",
           "environment": [],
